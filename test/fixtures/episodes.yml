@@ -1,0 +1,18 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  payload_url: MyString
+  posted_at: 2014-08-27 20:56:20
+  interesting: false
+  unlistened: false
+
+two:
+  title: MyString
+  description: MyText
+  payload_url: MyString
+  posted_at: 2014-08-27 20:56:20
+  interesting: false
+  unlistened: false

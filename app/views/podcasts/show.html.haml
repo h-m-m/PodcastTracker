@@ -1,0 +1,12 @@
+%p#notice= notice
+
+%p
+  %b Title:
+  = @podcast.title
+%p
+  %b Url:
+  = @podcast.url
+
+= link_to 'Edit', edit_podcast_path(@podcast)
+\|
+= link_to 'Back', podcasts_path
